@@ -1,0 +1,104 @@
+{
+    "Questions": [
+        {
+            "question": "What is the capital city of Australia?",
+            "options": [
+                "a) Sydney",
+                "b) Melbourne",
+                "c) Canberra",
+                "d) Brisbane"
+            ],
+            "answer": "c) Canberra"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                "a) Earth",
+                "b) Mars",
+                "c) Jupiter",
+                "d) Venus"
+            ],
+            "answer": "b) Mars"
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "options": [
+                "a) Charles Dickens",
+                "b) William Shakespeare",
+                "c) Mark Twain",
+                "d) George Orwell"
+            ],
+            "answer": "b) William Shakespeare"
+        },
+        {
+            "question": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "a) Oxygen",
+                "b) Gold",
+                "c) Osmium",
+                "d) Oganesson"
+            ],
+            "answer": "a) Oxygen"
+        },
+        {
+            "question": "What is the largest mammal in the world?",
+            "options": [
+                "a) African Elephant",
+                "b) Blue Whale",
+                "c) Great White Shark",
+                "d) Polar Bear"
+            ],
+            "answer": "b) Blue Whale"
+        },
+        {
+            "question": "In which year did the Titanic sink?",
+            "options": [
+                "a) 1910",
+                "b) 1912",
+                "c) 1914",
+                "d) 1916"
+            ],
+            "answer": "b) 1912"
+        },
+        {
+            "question": "Who is known as the father of computers?",
+            "options": [
+                "a) Alan Turing",
+                "b) Charles Babbage",
+                "c) Steve Jobs",
+                "d) Bill Gates"
+            ],
+            "answer": "b) Charles Babbage"
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": [
+                "a) 0",
+                "b) 1",
+                "c) 2",
+                "d) 3"
+            ],
+            "answer": "c) 2"
+        },
+        {
+            "question": "Which gas is most abundant in the Earth's atmosphere?",
+            "options": [
+                "a) Oxygen",
+                "b) Nitrogen",
+                "c) Carbon Dioxide",
+                "d) Hydrogen"
+            ],
+            "answer": "b) Nitrogen"
+        },
+        {
+            "question": "Which organ in the human body is responsible for pumping blood?",
+            "options": [
+                "a) Brain",
+                "b) Liver",
+                "c) Heart",
+                "d) Kidney"
+            ],
+            "answer": "c) Heart"
+        }
+    ]
+}

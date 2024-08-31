@@ -1,0 +1,14 @@
+{
+    "rooms": [
+        {
+            "id": 1,
+            "isFull":false,
+            "players": [],
+            "questions": [],
+            "currentQuestion": null,
+            "currentAnswer": null,
+            "score": {},
+            "questionTimeout": null
+        }
+    ]
+}
